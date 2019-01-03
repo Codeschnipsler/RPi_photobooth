@@ -1,4 +1,4 @@
 RPi_photobooth
 ==============
 
-These files are supplied as part of an [Instructable](http://www.instructables.com/id/Raspberry-Pi-photo-booth-controller/) that describes how to build a photobooth using a Raspberry Pi as the "brains" of a camera, printer, and user interface controller.
+I have used a lot of SAFAY's code for a similar Fotobox project. Please got to https://github.com/Codeschnipsler/Fotobox for more details (I apologize if I have not followed the fork correctly, this is my first repository so I am still learning)
